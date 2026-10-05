@@ -76,11 +76,10 @@ Under these assumptions, the derivation reduces to the classical rocket equation
 
 ## Author
 
-**Md. Shahriar Parvez**
-Department of Mechanical Engineering
-Bangladesh University of Engineering and Technology (BUET)
+**Md. Shahriar Parvez**  
+Department of Mechanical Engineering  
+Bangladesh University of Engineering and Technology (BUET)  
 Dhaka, Bangladesh
-
 ---
 
 *This work is an independent study and rederivation intended to explore the mathematical and physical foundations underlying a standard result in rocket dynamics.*
